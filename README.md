@@ -9,7 +9,7 @@
         border-bottom-style: hidden;
         border-left-style: hidden;
         border-right-style: hidden;
-    }
+        }
 </style>
 <table >
     <tr>
