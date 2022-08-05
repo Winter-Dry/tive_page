@@ -30,4 +30,13 @@ Clear pictures are given to show errors produced by models cross all temporal le
 
 ### Citation
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+If you use TIVE in your project, please cite
+
+```
+@inproceedings{jia2022tive,
+  author    = {Wenhe Jia and Lu Yang and Zilong Jia and Qing Song},
+  title     = {TIVE: A General Toolbox for Identifying Video Instance Segemntation Errors},
+  booktitle = {arXiv},
+  year      = {2022},
+}
+```
