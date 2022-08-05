@@ -3,7 +3,7 @@
 ### Abstract
 
 <html>
-<table style="margin-left: auto; margin-right: auto;">
+<table frame="void">
     <tr>
         <td style="width:30%">
             <img src="./img/abstract.png" >
