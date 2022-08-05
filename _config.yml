@@ -1,1 +1,18 @@
+title: TIVE
+description: A General Toolbox for Identifying Video Errors
+show_downloads: true
+
+logo: ./img/tive_logo.jpg
+
+github:
+  repository_name: TIVE
+  repository_url: https://github.com/wenhe-jia/TIVE
+  zip_url: https://github.com/wenhe-jia/TIVE/zipball/main
+  tar_url: https://github.com/wenhe-jia/TIVE/tarball/main
+
+google_analytics: 
+
+remote_theme: pages-themes/cayman@v0.4.0
+plugins:
+- jekyll-remote-theme
 theme: jekyll-theme-cayman
