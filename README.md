@@ -13,9 +13,7 @@
     <tr style="height:auto;">
         <td style="width:30%;">
             <!-- <img src="./img/abstract.png" > -->
-            <iframe src="./img/abstract.svg" height="300" width="300" seamless style="align-items:center;">
-            </iframe>
-            <!-- <embed src="./img/abstract.svg" > -->
+            <embed src="./img/abstract.svg" style="width:40%;height:40%" >
         </td>
         <td style="width:70%;">
             <font size=5><b>TIVE</b></font> is a Toolbox for Identifying Video instacne segmentation Errors. By directly operating output prediction files, TIVE can isolate error predictions and weight each type’s mAP demage, in purpose of distinguishing model features, as well observe performance over insatcne temporal ranges for real applications. Decomposing localization quality in space-time dimensions, model’s potential drawbacks on spatial segmentation and temporal association can be clearly revealed.
