@@ -11,7 +11,7 @@
 </style>
 <table >
     <tr>
-        <td style="width:30%">
+        <td style="width:30%;height:auto;">
             <!-- <img src="./img/abstract.png" > -->
             <embed src="./img/ToolboxComparison.pdf"  width="100%" height="100%">
         </td>
