@@ -36,7 +36,7 @@ We expect that the analysis of TIVE can give the researchers more insights, guid
 <p>
     <font size=5><b>TIVE </b></font>bin false positives and false negatives produced by a model into 7 types, including general object recognition errors and two spatial-temporal localization errors with specific focus on spatial segmentation and temporal association quality of predicted mask sequence.
 </p>
-### Error identification
+# Error identification
 <div align=center>
     <img src="./img/Error_identification.svg">
 </div>
