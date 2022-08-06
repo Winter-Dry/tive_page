@@ -13,7 +13,7 @@
     <tr style="height:auto;">
         <td style="width:30%;">
             <!-- <img src="./img/abstract.png" > -->
-            <div style="width:40%;height:40%">
+            <div style="width:300px;height:300px">
             <embed src="./img/abstract.svg"  >
             </div>
         </td>
