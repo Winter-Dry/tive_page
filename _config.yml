@@ -1,6 +1,5 @@
----
-title: TIVE
----
+titles_from_headings:
+  enabled: false
 title: TIVE
 description: A General Toolbox for Identifying Video Errors
 show_downloads: true
