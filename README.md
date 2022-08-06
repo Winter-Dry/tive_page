@@ -8,6 +8,9 @@
         border-left-style: hidden;
         border-right-style: hidden;
         }
+    p {
+        text-align:justify;
+    }
 </style>
 <table >
     <tr style="height:auto;">
@@ -16,7 +19,7 @@
             <!-- <embed src="./img/abstract.svg"  > -->
             <img src="./img/abstract.svg"> </img>
         </td>
-        <td style="width:70%;">
+        <td style="width:70%;text-align:justify">
             <font size=5><b>TIVE</b></font> is a Toolbox for Identifying Video instacne segmentation Errors. By directly operating output prediction files, TIVE can isolate error predictions and weight each type’s mAP demage, in purpose of distinguishing model features, as well observe performance over insatcne temporal ranges for real applications. Decomposing localization quality in space-time dimensions, model’s potential drawbacks on spatial segmentation and temporal association can be clearly revealed.
 
 We expect that the analysis of TIVE can give the researchers more insights, guiding the community to promote more meaningful explorations for video instance segmentation.
@@ -34,8 +37,9 @@ We expect that the analysis of TIVE can give the researchers more insights, guid
 </p>
 ### Error identification
 ![](./img/Error_identification.png)
+<p>
 Clear pictures are given to show errors produced by models cross all temporal length, effect of each to the evaluation metric is weighted by individually fixing oracle. Users can observe what prevents their model to achieve higher mAP.
-
+</p>
 ### Citation
 
 If you use TIVE in your project, please cite
